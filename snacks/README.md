@@ -66,3 +66,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### How to start App:
+* `npm i netlify-cli`
+* In CLI type `netlify deploy`
+* username: snacker password: fullstacksnack
+* Open Live Draft URL
